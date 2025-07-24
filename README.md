@@ -11,7 +11,7 @@
 # Instructions for it to work:
 
 - rename .env.example to .env
-- open .env and add your google api key (get one here: https://aistudio.google.com/app/apikey )
+- open .env and add your google api key (get one here: https://aistudio.google.com/app/apikey)
 - run npm install
 - run npm start
 - ctrl+c to terminate chat
