@@ -1,0 +1,15 @@
+{
+  "name": "langchain-gemini-chatbot",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "chatbot.js",
+  "scripts": {
+    "start": "node chatbot.js"
+  },
+  "dependencies": {
+    "@langchain/google-genai": "^0.2.15",
+    "@langchain/langgraph": "^0.3.11",
+    "@langchain/core": "^0.3.11",
+    "dotenv": "^17.2.0"
+  }
+}
